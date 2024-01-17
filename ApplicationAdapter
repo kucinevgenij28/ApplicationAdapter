@@ -1,0 +1,5 @@
+public class MarioGame extends ApplicationAdapter {
+    private SpriteBatch batch;
+    private ShapeRenderer shapeRenderer;
+    private OrthographicCamera camera;
+    private BitmapFont font;
